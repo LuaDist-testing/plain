@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "plain"
-version = "0.1-1"
+version = "0.1.1-1"
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.1.1-1",
   url = "git://github.com/LuaDist-testing/plain.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/zinovyev/plain",
---    tag = "v0.1",
+--    tag = "v0.1.1",
 -- }
 description = {
    homepage = "https://github.com/zinovyev/plain",
